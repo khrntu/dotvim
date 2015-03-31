@@ -1,6 +1,14 @@
-# vim setting
+vim setting
+===========
 copy dotvim/bundle to .vim/
+
 copy dotvim/dirs to .vim/
 
-pip install vim-debug  # python vim debug
-pip install isort  # sort python imports
+python/php debugging environment:
+
+    pip install vim-debug
+
+sort python imports:
+
+    pip install isort
+ 
